@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655093238 source:e:\pro\modelsim\tv\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
